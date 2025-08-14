@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "802050432981",
+    "project_id": "vit-s-754d9",
+    "storage_bucket": "vit-s-754d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802050432981:android:2ef2c01a4bd2ac4157675c",
+        "android_client_info": {
+          "package_name": "com.vtech.interactivetools"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802050432981-rb7l5abudn50o6mqkinanrai2lvth01o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vtech.interactivetools",
+            "certificate_hash": "17ddc7536c4bea3ec5a8223287be35cf4880614b"
+          }
+        },
+        {
+          "client_id": "802050432981-nec6e9uskuc586doe90n098h6op9ulju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWvE34SxiCR1F-CFKXferUGKJhAgNU7aE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802050432981-nec6e9uskuc586doe90n098h6op9ulju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

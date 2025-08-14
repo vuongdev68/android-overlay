@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViT overlay</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="default_web_client_id">802050432981-nec6e9uskuc586doe90n098h6op9ulju.apps.googleusercontent.com</string>
+</resources>
