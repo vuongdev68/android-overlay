@@ -69,5 +69,7 @@ dependencies {
     implementation("com.google.firebase:firebase-auth:23.2.1")
     implementation("com.google.firebase:firebase-analytics:21.6.1")
     implementation("androidx.core:core:1.12.0")
+    implementation("androidx.media3:media3-exoplayer:1.3.1")
+    implementation("androidx.media3:media3-ui:1.3.1")
 
 }
